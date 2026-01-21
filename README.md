@@ -1,4 +1,4 @@
-# ChatServerCommands - Upgraded WebSocket Chat Application
+# lab3-Docker-Assignment - ChatServerCommands - Upgraded WebSocket Chat Application
 
 Real-time chat server with all the bells and whistles. Has commands for private messaging, user management, and admin stuff. If you just want basic chat, use the regular `ChatServer` instead.
 
@@ -137,3 +137,4 @@ docker-compose down
 # Stop and remove everything including networks and volumes
 docker-compose down --volumes --remove-orphans
 ```
+
